@@ -1,0 +1,10 @@
+.category .swiper-slide {
+    height: 200px;
+    border-radius: 10%;
+    background-color: #d7d9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
